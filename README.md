@@ -1,1 +1,6 @@
-# Learning JavaScript, 3rd Edition 예제  
+# ES6  
+> babel  
+gulp  
+eslint  
+
+
